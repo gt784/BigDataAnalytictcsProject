@@ -24,3 +24,6 @@ Link https://github.com/gt784/BigDataAnalytictcsProject/wiki/Lab8
 
 ## Lab9 Report
 Link https://github.com/gt784/BigDataAnalytictcsProject/wiki/Lab9
+
+## Lab10 Report  
+Link https://github.com/gt784/BigDataAnalytictcsProject/wiki/Lab10
